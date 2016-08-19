@@ -7,5 +7,5 @@
 ##common_class
  * 1 Any  
 >来源于[qicosmos(江南)](http://www.cnblogs.com/qicosmos/p/3420095.html)
- * 2 MessageBus
+ * 2 MessageBus --注意此版本需要vs2015 c++11新特性支持
 >来源于[qicosmos(江南)](http://www.cnblogs.com/qicosmos/p/3420095.html)
