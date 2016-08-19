@@ -6,13 +6,6 @@
 #cmn_cpp_tool
 ##common_class
  * 1 Any  
-用法：
-`
-    struct AA s_a;
-    Any n = s_a;    
-    struct AA s_b = n.AnyCast<AA>();
-` 
 >来源于[qicosmos(江南)](http://www.cnblogs.com/qicosmos/p/3420095.html)
-
  * 2 MessageBus
 >来源于[qicosmos(江南)](http://www.cnblogs.com/qicosmos/p/3420095.html)
