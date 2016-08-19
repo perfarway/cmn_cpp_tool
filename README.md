@@ -5,7 +5,7 @@
 
 #cmn_cpp_tool
 ##common_class
-*1Any  
+ * 1 Any  
 用法：
 `
     struct AA s_a;
@@ -14,4 +14,5 @@
 ` 
 >来源于[qicosmos(江南)](http://www.cnblogs.com/qicosmos/p/3420095.html)
 
-*2MessageBus
+ * 2 MessageBus
+>来源于[qicosmos(江南)](http://www.cnblogs.com/qicosmos/p/3420095.html)
